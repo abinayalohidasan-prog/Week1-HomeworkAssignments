@@ -1,4 +1,4 @@
-/*
+/* Day 2 Assignment:
 Assignment Details: 
 -------------------
 Declare variables using `let` for different data types in JavaScript, and verify their types using `typeof`, including 
